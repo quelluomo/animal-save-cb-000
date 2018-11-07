@@ -21,6 +21,7 @@ html {
 /* Write your solution here */
 @media screen only and (min-width: 642px) and (max-width: 1090px) {
   #dolphin {
+    display: block;
     transform: rotate(0.75turn);
   }
 }
